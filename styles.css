@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
